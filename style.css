@@ -61,7 +61,7 @@ body {
     }
   
     .card {
-      width: 97%;
+      width: 100%;
       display: block;
       margin-bottom: 30px;
       text-align: justify;
